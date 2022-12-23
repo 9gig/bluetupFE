@@ -6,4 +6,5 @@ Front end flutter code for bluetup finance app![save](https://user-images.github
 ![home](https://user-images.githubusercontent.com/66933995/209346642-d08a8b0a-020d-49b6-902e-3bb627f774cc.png)
 ![invest](https://user-images.githubusercontent.com/66933995/209346670-414fedc8-bc6b-432a-b6c8-810c2c504f90.png)
 ![profile](https://user-images.githubusercontent.com/66933995/209346693-a48972ac-68e2-416c-8753-5cb08ca9903e.png)
-![refer](https://user-images.githubusercontent.com/66933995/209346709-32939aa2-3043-4907-9df3-86d6b2288f97.png)
+
+![refer](https://user-images.githubusercontent.com/66933995/209346987-07a66787-b57a-4b00-8ced-95b33964ce5c.png)
